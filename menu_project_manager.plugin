@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=menu_project_manager
+IAge=3
+Name=Menu Project Manager
+Description=Allows you to group files into projects using a menu.
+Authors=Alin Avasilcutei <avasilcuteia@gmail.com>\nhttp://www.geocities.com/avasilcuteia\n\nDave Sullivan <demsullivan@gmail.com>\nhttp://www.dave-sullivan.com\n\nFrancisco Franchetti
+Copyright=Copyright © 2006 Alin Avasilcutei\nCopyright © 2006 Information Technology Group\n[www.itgroup.ro]\n\nCopyright © 2006 Dave Sullivan
+Website=http://sourceforge.net/projects/gedit-fileset
+Version=0.10.0
